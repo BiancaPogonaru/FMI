@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1553358890 source:c:\users\m\oop\oop\tema1\src\node.cpp
+	<string.h>
+	<iostream>
+	"Node.h"
+
+1553358890 c:\users\m\oop\oop\tema1\include\node.h
+
+1553358890 source:c:\users\m\oop\oop\tema1\src\stack.cpp
+	"Stack.h"
+	"Node.h"
+	<string.h>
+	<fstream>
+
+1553358890 c:\users\m\oop\oop\tema1\include\stack.h
+	<iostream>
+
